@@ -13,6 +13,14 @@ nav_order: 3
 * Haihua Pan
   * Professor and Chairman, Department of Linguistics and Modern Languages
 
+### Research Staff
+
+* Bo Xue
+  * Postdoctoral Researcher, Department of Linguistics and Modern Languages
+
+* Ganquan Shi
+  * Research Assistant, Department of Linguistics and Modern Languages
+
 ### PhD Students
 
 * Xue Xia
