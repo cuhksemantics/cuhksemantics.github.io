@@ -11,8 +11,21 @@ nav_order: 3
 ### Principal Investigator
 
 * Haihua Pan
+  * Professor and Chairman, Department of Linguistics and Modern Languages
 
 ### PhD Students
+
+* Xue Xia
+  * PhD student, Department of Linguistics and Modern Languages
+
+* Hang Kuang
+  * PhD student, Department of Linguistics and Modern Languages
+
+* Tianshu Li
+  * PhD student, Department of Linguistics and Modern Languages
+
+* Qian Xie
+  * PhD student, Department of Linguistics and Modern Languages
 
 * Yige Chen
   * PhD student, Department of Linguistics and Modern Languages
