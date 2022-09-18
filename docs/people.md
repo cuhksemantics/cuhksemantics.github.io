@@ -1,12 +1,18 @@
 ---
 layout: default
 title: People
-nav_order: 2
+nav_order: 3
 ---
 
 ## People
 
 \[TODO a list of group members, see examples as follow\]
+
+### Principal Investigator
+
+* Haihua Pan
+
+### PhD Students
 
 * Yige Chen
   * PhD student, Department of Linguistics and Modern Languages
