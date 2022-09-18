@@ -37,6 +37,6 @@ nav_order: 3
 
 * Yige Chen
   * PhD student, Department of Linguistics and Modern Languages
-  * Research Interests: Natural Language Processing; Information Extraction in Economics, Finance and Business 
+  * Research Interests: Natural Language Processing; Information Extraction in Finance and Business 
   * Email: [dummy, to be revised](https://cuhksemantics.github.io/)
   * [Personal website](https://lukeyigechen.github.io/)
