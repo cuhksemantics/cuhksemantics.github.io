@@ -6,7 +6,7 @@ nav_order: 3
 
 ## People
 
-\[TODO a list of group members, see examples as follow\]
+\[TODO a list of group members, see examples below\]
 
 ### Principal Investigator
 
