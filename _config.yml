@@ -5,3 +5,5 @@ plugins:
 title: CUHK Semantics
 description: A website for the CUHK Semantics Group
 # show_downloads: true
+
+search_enabled: false
