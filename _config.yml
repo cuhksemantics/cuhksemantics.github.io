@@ -2,7 +2,7 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: CUHK Semantics Group
+title: CUHK Semantics
 description: A website for the CUHK Semantics Group
 # show_downloads: true
 
