@@ -1,6 +1,7 @@
 ---
 layout: default
 title: People
+permalink: /people/
 nav_order: 3
 ---
 
@@ -24,19 +25,19 @@ nav_order: 3
 ### PhD Students
 
 * Xue Xia
-  * PhD student, Department of Linguistics and Modern Languages
+  * PhD Student, Department of Linguistics and Modern Languages
 
 * Hang Kuang
-  * PhD student, Department of Linguistics and Modern Languages
+  * PhD Student, Department of Linguistics and Modern Languages
 
 * Tianshu Li
-  * PhD student, Department of Linguistics and Modern Languages
+  * PhD Student, Department of Linguistics and Modern Languages
 
 * Qian Xie
-  * PhD student, Department of Linguistics and Modern Languages
+  * PhD Student, Department of Linguistics and Modern Languages
 
 * Yige Chen
-  * PhD student, Department of Linguistics and Modern Languages
+  * PhD Student, Department of Linguistics and Modern Languages
   * Research Interests: Natural Language Processing; Information Extraction in Finance and Business 
   * Email: [dummy, to be revised](https://cuhksemantics.github.io/)
   * [Personal website](https://lukeyigechen.github.io/)
