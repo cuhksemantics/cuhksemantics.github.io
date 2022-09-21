@@ -7,37 +7,30 @@ nav_order: 3
 
 ## People
 
-\[TODO a list of group members, see examples below\]
-
-### Principal Investigator
+### Advisor
 
 * Haihua Pan
-  * Professor and Chairman, Department of Linguistics and Modern Languages
+  * Professor and Chairman, Department of Linguistics and Modern Languages, Chinese University of Hong Kong
 
-### Research Staff
+### Participants
 
 * Bo Xue
-  * Postdoctoral Researcher, Department of Linguistics and Modern Languages
+  * Postdoctoral Researcher, Department of Linguistics and Modern Languages, Chinese University of Hong Kong
 
 * Ganquan Shi
-  * Research Assistant, Department of Linguistics and Modern Languages
-
-### PhD Students
+  * Research Assistant, Department of Linguistics and Modern Languages, Chinese University of Hong Kong
 
 * Xue Xia
-  * PhD Student, Department of Linguistics and Modern Languages
+  * PhD Student, Department of Linguistics and Modern Languages, Chinese University of Hong Kong
 
 * Hang Kuang
-  * PhD Student, Department of Linguistics and Modern Languages
+  * PhD Student, Department of Linguistics and Modern Languages, Chinese University of Hong Kong
 
 * Tianshu Li
-  * PhD Student, Department of Linguistics and Modern Languages
+  * PhD Student, Department of Linguistics and Modern Languages, Chinese University of Hong Kong
 
 * Qian Xie
-  * PhD Student, Department of Linguistics and Modern Languages
+  * PhD Student, Department of Linguistics and Modern Languages, Chinese University of Hong Kong
 
-* Yige Chen
-  * PhD Student, Department of Linguistics and Modern Languages
-  * Research Interests: Natural Language Processing; Information Extraction in Finance and Business 
-  * Email: [dummy, to be revised](https://cuhksemantics.github.io/)
-  * [Personal website](https://lukeyigechen.github.io/)
+* [Yige Chen](https://lukeyigechen.github.io/)
+  * PhD Student, Department of Linguistics and Modern Languages, Chinese University of Hong Kong
