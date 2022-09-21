@@ -9,28 +9,28 @@ nav_order: 3
 
 ### Advisor
 
-* Haihua Pan
-  * Professor and Chairman, Department of Linguistics and Modern Languages, Chinese University of Hong Kong
+* [Haihua Pan](http://ling.cuhk.edu.hk/p_pan.php)
+  * Professor and Chairman, Department of Linguistics and Modern Languages
 
 ### Participants
 
 * Bo Xue
-  * Postdoctoral Researcher, Department of Linguistics and Modern Languages, Chinese University of Hong Kong
+  * Postdoctoral Researcher
 
 * Ganquan Shi
-  * Research Assistant, Department of Linguistics and Modern Languages, Chinese University of Hong Kong
+  * Research Assistant
 
 * Xue Xia
-  * PhD Student, Department of Linguistics and Modern Languages, Chinese University of Hong Kong
+  * PhD Student
 
 * Hang Kuang
-  * PhD Student, Department of Linguistics and Modern Languages, Chinese University of Hong Kong
+  * PhD Student
 
 * Tianshu Li
-  * PhD Student, Department of Linguistics and Modern Languages, Chinese University of Hong Kong
+  * PhD Student
 
 * Qian Xie
-  * PhD Student, Department of Linguistics and Modern Languages, Chinese University of Hong Kong
+  * PhD Student
 
 * [Yige Chen](https://lukeyigechen.github.io/)
-  * PhD Student, Department of Linguistics and Modern Languages, Chinese University of Hong Kong
+  * PhD Student
