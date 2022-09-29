@@ -7,10 +7,10 @@ nav_order: 9
 
 ## Contact
 
-Email: \
+### Email
 [cuhksemantics\[at\]gmail.com](mailto:cuhksemantics@gmail.com)
 
-Location: \
+### Location
 Department of Linguistics and Modern Languages, \
 G/F, Leung Kau Kui Building, \
 The Chinese University of Hong Kong, \
