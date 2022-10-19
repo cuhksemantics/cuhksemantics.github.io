@@ -17,6 +17,9 @@ nav_order: 3
 * Bo Xue
   * Postdoctoral Researcher
 
+* Qianqian Ren
+  * Postdoctoral Researcher
+
 * Ganquan Shi
   * Research Assistant
 
