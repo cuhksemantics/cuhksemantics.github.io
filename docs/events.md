@@ -11,9 +11,9 @@ nav_order: 2
 
 ## Upcoming Events
 
-* Advances in the study of the Chinese particle *de*
+* Towards a unified theory of particle *de* in Mandarin Chinese
   * Presenter: Xue Xia
-  * Date: 13/10/2022
+  * Date: 20/10/2022
   * Weekly presentation, to be held online
 
 ## Past Events
