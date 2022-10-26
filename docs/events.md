@@ -11,12 +11,19 @@ nav_order: 2
 
 ## Upcoming Events
 
-* Towards a unified theory of particle *de* in Mandarin Chinese
+* Towards a unified theory of particle *de* in Mandarin Chinese (Part II)
   * Presenter: Xue Xia
-  * Date: 20/10/2022
-  * Weekly presentation, to be held online
+  * Date: 27/10/2022
+  * Venue: G14 Leung Kau Kui Bldg. & online (via Zoom)
+  * Weekly presentation at the Chinese University of Hong Kong
 
 ## Past Events
+
+* Towards a unified theory of particle *de* in Mandarin Chinese (Part I)
+  * Presenter: Xue Xia
+  * Date: 20/10/2022
+  * Venue: G14 Leung Kau Kui Bldg. & online (via Zoom)
+  * Weekly presentation at the Chinese University of Hong Kong
 
 * The universal quantifier: a cross-linguistic perspective
   * Presenter: Prof. Haihua Pan
