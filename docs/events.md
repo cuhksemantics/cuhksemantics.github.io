@@ -2,7 +2,7 @@
 layout: default
 title: Events
 permalink: /events/
-nav_order: 2
+nav_order: 3
 ---
 
 **For a complete list of the weekly presentations for the 1st Term, please see [this spreadsheet](https://docs.google.com/spreadsheets/d/1RINxumCdiaS6ladPtELQjUQP2Z7OKfV6ev3jMK85ePc/edit?usp=sharing).**
