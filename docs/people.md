@@ -2,7 +2,7 @@
 layout: default
 title: People
 permalink: /people/
-nav_order: 3
+nav_order: 4
 ---
 
 ## People
@@ -23,13 +23,13 @@ nav_order: 3
 * Ganquan Shi
   * Research Assistant
 
-* Xue Xia
-  * PhD Student
-
 * Hang Kuang
   * PhD Student
 
 * Tianshu Li
+  * PhD Student
+
+* Xue Xia
   * PhD Student
 
 * Qian Xie
