@@ -23,13 +23,13 @@ nav_order: 4
 * Ganquan Shi
   * Research Assistant
 
+* Xue Xia
+  * PhD Student
+
 * Hang Kuang
   * PhD Student
 
 * Tianshu Li
-  * PhD Student
-
-* Xue Xia
   * PhD Student
 
 * Qian Xie
