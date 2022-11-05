@@ -19,6 +19,12 @@ nav_order: 3
 
 ## Past Events
 
+* Towards a unified theory of particle *de* in Mandarin Chinese (Part III)
+  * Presenter: Xue Xia
+  * Date: 03/11/2022
+  * Venue: online (via Zoom)
+  * Weekly presentation at the Chinese University of Hong Kong
+
 * Towards a unified theory of particle *de* in Mandarin Chinese (Part II)
   * Presenter: Xue Xia
   * Date: 27/10/2022
